@@ -1,4 +1,4 @@
-# flutter_application_2
+# CRUD with local DB
 
 A new Flutter project.
 
