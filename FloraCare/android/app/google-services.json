@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334780662668",
+    "project_id": "floracare-2121",
+    "storage_bucket": "floracare-2121.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334780662668:android:f9f605113b8a3d11ca8ca9",
+        "android_client_info": {
+          "package_name": "com.example.floracare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgBdKebVOY9M2QDt8C5wAXoMHLev8DTdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
